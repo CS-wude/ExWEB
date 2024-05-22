@@ -55,3 +55,30 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+#searchBox {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+#commentsSection {
+    margin-top: 40px;
+}
+
+#commentInput {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+#submitComment {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
